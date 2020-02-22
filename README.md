@@ -39,3 +39,4 @@ These might be typical types of data in hris
  * Logistic Regression
  * RandomForestClassifier
  * DecisionTree Clasifier
+ * Gradiant Boosting
